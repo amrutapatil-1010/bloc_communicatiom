@@ -42,3 +42,17 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+ios/Runner.xcworkspace/contents.xcworkspacedata
+ios/Runner.xcworkspace/contents.xcworkspacedata
+ios/Runner.xcworkspace/contents.xcworkspacedata
+ios/Runner.xcworkspace/contents.xcworkspacedata
+ios/Podfile.lock
+ios/Flutter/Debug.xcconfig
+ios/Flutter/Debug.xcconfig
+ios/Flutter/Debug.xcconfig
+macos/Podfile
+macos/Flutter/Flutter-Debug.xcconfig
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/generated_plugins.cmake
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Flutter/Flutter-Release.xcconfig
